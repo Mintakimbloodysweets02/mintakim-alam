@@ -1,2 +1,2 @@
-# mintakim
+# mintakim alam
 Python and JavaScript
