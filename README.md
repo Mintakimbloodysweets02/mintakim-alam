@@ -1,2 +1,1 @@
-# mintakim
-Python and JavaScript
+
