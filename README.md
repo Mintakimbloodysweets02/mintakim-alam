@@ -1,2 +1,2 @@
-# mintakim-learning
+# mintakim
 Python and JavaScript
